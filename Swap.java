@@ -1,5 +1,5 @@
 import java.lang.*;
-public class Swap{
+Public class Swap{
 void swapping(int a,int b){
 {
 int c;
@@ -9,7 +9,7 @@ System.out.println("Value of a is " +a);
 System.out.println("Value of b is " +b);
 }
 
-public static void main(String args[]){
+Public static void main(String args[]){
 Swap s = new Swap();
 int a=2,b=3;
 System.out.println("Before swapping");
