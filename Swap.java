@@ -1,6 +1,6 @@
 import java.lang.*;
-Public class Swap{
-void swapping(int a,int b){
+class Swap{
+void swapping(int a,int b)
 {
 int c;
 c=a;a=b;b=c;
