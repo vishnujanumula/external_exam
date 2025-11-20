@@ -9,7 +9,7 @@ System.out.println("Value of a is " +a);
 System.out.println("Value of b is " +b);
 }
 
-Public static void main(String args[]){
+public static void main(String args[]){
 Swap s = new Swap();
 int a=2,b=3;
 System.out.println("Before swapping");
